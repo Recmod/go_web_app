@@ -1,4 +1,4 @@
-module community-api
+module qkteam-api
 
 go 1.16
 
